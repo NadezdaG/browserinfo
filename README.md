@@ -1,5 +1,7 @@
 # browser-info
 
+Preview: https://home-5009063507.app-ionos.space/
+
 This app helps to provide the correct browser information to the support teams to troubleshoot issues user is experiencing with the website.
 
 Created with Vue 3 Composition API, SASS
