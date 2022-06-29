@@ -1,0 +1,45 @@
+@use "variables.scss";
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;600&display=swap");
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: var(--base-font-size);
+  font-weight: 400;
+}
+
+strong {
+  font-weight: 600;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 1.4em;
+  text-transform: uppercase;
+  margin-bottom: 1em;
+}
+
+h2 {
+  font-size: 1.15em;
+}
+
+.text {
+  &--center {
+    text-align: center;
+  }
+}
+
+a {
+  color: inherit;
+  text-decoration: underline;
+  &:hover {
+    color: var(--color-accent);
+  }
+}
