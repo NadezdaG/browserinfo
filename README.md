@@ -1,6 +1,6 @@
 # browser-info
 
-Preview: https://home-5009063507.app-ionos.space/
+Preview: https://yourbrowser.info/
 
 This app helps to provide the correct browser information to the support teams to troubleshoot issues user is experiencing with the website.
 
